@@ -1,0 +1,1 @@
+Extracted a small library for easily building fluxxor stores and combining actions. Was more of a learning tool than anything, I've replaced it mostly with Fynx and the use of React contexts.
